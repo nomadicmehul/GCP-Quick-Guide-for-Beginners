@@ -1,6 +1,8 @@
 Hello Awesome People, 
 
-I have created a Google Cloud course outline and provide explanations, examples, and recommended course materials for each topic. Below is a structured outline along with explanations and recommended resources for each section. Please note that this is a basic overview and you can expand each section with more in-depth content as needed.
+I have created a Google Cloud course outline and provide explanations, examples, and recommended course materials for each topic. Below is a structured outline along with explanations and recommended resources for each section. 
+
+Please note that this is a basic overview and you can expand each section with more in-depth content as needed.
 
 ---
 
@@ -16,8 +18,6 @@ I have created a Google Cloud course outline and provide explanations, examples,
    - **Introduction to vSphere and vCenter Server:**
      - Explanation of VMware vSphere and vCenter Server architecture.
 
-   **Recommended Resource:** 
-
 2. **Introduction to Cloud Technology**
    - **Introduction to Cloud Computing:**
      - Explanation of cloud computing and its advantages.
@@ -29,8 +29,6 @@ I have created a Google Cloud course outline and provide explanations, examples,
      - Overview of using APIs and Google Cloud Shell.
    - **Creating Virtual Machines and Load Balancers:**
      - How to create VM instances and set up load balancers.
-
-   **Recommended Resource:** 
 
 3. **Cloud Infrastructure**
    - **Cloud Storage:**
@@ -44,8 +42,6 @@ I have created a Google Cloud course outline and provide explanations, examples,
    - **Cloud Pub/Sub and Pub/Sub Lite:**
      - Simplifying event-driven processing with Pub/Sub and Pub/Sub Lite.
 
-   **Recommended Resource:** 
-
 4. **App Engine**
    - **App Engine Standard Environment:**
      - Overview of the App Engine Standard Environment.
@@ -55,8 +51,6 @@ I have created a Google Cloud course outline and provide explanations, examples,
      - Steps to test and deploy an application on App Engine.
    - **Writing a Basic Web Service:**
      - Creating a simple web service on App Engine.
-
-   **Recommended Resource:**
 
 ---
 
