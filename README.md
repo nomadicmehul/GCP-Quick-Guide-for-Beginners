@@ -1,3 +1,5 @@
+Hello Awesome People, 
+
 I have created a Google Cloud course outline and provide explanations, examples, and recommended course materials for each topic. Below is a structured outline along with explanations and recommended resources for each section. Please note that this is a basic overview and you can expand each section with more in-depth content as needed.
 
 ---
@@ -223,3 +225,30 @@ Creating a simple web service using App Engine and understanding its components.
 ---
 
 For each section, I've included a brief explanation of the main topics and sub-topics. Additionally, I've provided recommended resources for each section, which are online courses and tutorials that beginners can follow to gain a deeper understanding. 
+
+## Additional Learning Resources
+
+For further exploration and learning about [Google Cloud](https://github.com/oscf-io/CloudCaptain/tree/main/Google%20Cloud%20Provider), here are some valuable resources to enhance your understanding:
+
+Explore these resources to gain a more comprehensive understanding of Google Cloud technologies and further your expertise.
+
+---
+
+<!-- TOC -->
+
+## What next ? 
+
+Don't forget to check out our project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
+
+We hope you find this project both informative and engaging.
+
+Don't forget to star this project to show your support for our initiatives. 
+
+Share your love on social media and proudly proclaim, *"Hey, I am a Cloud Captain! #BeaCloudCaptain!"* and included me in your journey by tagging me on [Twitter](https://twitter.com/NomadicMehul). 
+
+<!-- TOC -->
+
+## 🛡️ License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
