@@ -230,6 +230,8 @@ For each section, I've included a brief explanation of the main topics and sub-t
 
 For further exploration and learning about [Google Cloud](https://github.com/oscf-io/CloudCaptain/tree/main/Google%20Cloud%20Provider), here are some valuable resources to enhance your understanding:
 
+- Free Google Cloud Account setup [Guide](https://youtu.be/qVop0wK-RNE?si=bFzb3lgMt_2puwet) and get the **$300 credits for 90 day**. 
+
 Explore these resources to gain a more comprehensive understanding of Google Cloud technologies and further your expertise.
 
 ---
